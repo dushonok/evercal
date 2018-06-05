@@ -9,7 +9,7 @@ evernote-oauth-sample==0.0
 httplib2==0.7.7
 oauth2==1.5.211
 pyramid==1.4
-pyramid-debugtoolbar==1.0.4
+pyramid-debugtoolbar==4.4
 repoze.lru==0.6
 translationstring==1.1
 venusian==1.0a7
